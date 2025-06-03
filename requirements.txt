@@ -1,0 +1,8 @@
+# requirements.txt
+
+python-telegram-bot==22.1
+google-generativeai
+python-dotenv
+httpx
+mistralai
+openai # For DeepSeek API
